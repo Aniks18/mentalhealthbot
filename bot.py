@@ -9,7 +9,7 @@ CORS(app)  # Enable CORS
 
 # Updated API URL and Key
 API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent"
-API_KEY = "AIzaSyDryDT1j2NVGUIZthBW2t2jXrRTQ9AibSE"
+API_KEY = "use your own gemini api key here"
 
 headers = {
     "Content-Type": "application/json"
